@@ -29,3 +29,35 @@ and provides waste-sorting guidance.
 2. Start the application:
 
    streamlit run app.py
+
+
+## 🚀 Live Demo
+
+https://ecovision-ai-jeffy.streamlit.app/
+
+## 💻 GitHub Repository
+
+Source code:
+PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
+
+## 🛠️ Installation
+
+1. Clone this repository.
+2. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the application:
+
+```bash
+streamlit run app.py
+```
+
+## 🔮 Future Improvements
+
+- Improve object detection accuracy
+- Add more waste categories
+- Introduce real-time camera detection
+
