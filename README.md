@@ -37,8 +37,7 @@ https://ecovision-ai-jeffy.streamlit.app/
 
 ## 💻 GitHub Repository
 
-Source code:
-PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
+https://github.com/Sedhuramanramakrishnan/EcoVision-AI
 
 ## 🛠️ Installation
 
